@@ -1,4 +1,4 @@
-# hail-vue
+# Hello Vue
 
 ## Project setup
 ```
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Original tutorial
+[Go to](https://www.neoguias.com/tutorial-vue/#Referencias_con_Vue).
